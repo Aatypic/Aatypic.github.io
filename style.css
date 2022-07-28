@@ -143,3 +143,8 @@ footer a:focus {
   text-underline-offset: 0.5em;
   text-decoration-thickness: 3px;
 }
+
+.maintenance {
+  text-transform: uppercase;
+  font-size: 1.25rem;
+}
