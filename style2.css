@@ -1,0 +1,20 @@
+:root {
+  --clr-bg: hsl(0, 0%, 13%);
+  --clr-secondary: hsl(0, 0%, 9%);
+  --clr-primary: hsl(82, 58%, 36%);
+  --clr-y: hsl(206, 22%, 51%);
+  --clr-p: hsl(55, 91%, 53%);
+  --clr-i: hsl(320, 28%, 50%);
+  --clr-c: hsl(10, 53%, 59%);
+}
+
+/* * {
+  outline: 2px solid yellow;
+} */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
